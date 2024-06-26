@@ -11,19 +11,28 @@
     },
     {
       "id": "57e2",
-      "firstName": "Sandeep",
-      "lastName": "Kumar",
-      "userName": "sandeep",
-      "email": "sandeep@gmail.com",
+      "firstName": "Sneha Subash",
+      "lastName": "Rao",
+      "userName": "SSR",
+      "email": "",
       "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
       "isAdmin": false
     },
     {
       "id": "57e3",
-      "firstName": "Sahil",
-      "lastName": "Gupta",
-      "userName": "sahil",
-      "email": "sahil@gmail.com",
+      "firstName": "Alexander",
+      "lastName": "Ilkov",
+      "userName": "AI",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e3",
+      "firstName": "Thomas",
+      "lastName": "Müller",
+      "userName": "TM",
+      "email": "",
       "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
       "isAdmin": false
     }

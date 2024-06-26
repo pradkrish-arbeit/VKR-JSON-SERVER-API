@@ -26,15 +26,6 @@
       "email": "sahil@gmail.com",
       "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
       "isAdmin": false
-    },
-    {
-      "id": "57e4",
-      "firstName": "Santosh",
-      "lastName": "Rai",
-      "userName": "santosh",
-      "email": "santosh@gmail.com",
-      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
-      "isAdmin": false
     }
   ],
   "meetings_calender": [],

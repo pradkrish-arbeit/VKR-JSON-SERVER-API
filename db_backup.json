@@ -1,0 +1,313 @@
+{
+  "users": [
+    {
+      "userName": "admin",
+      "firstName": "Admin",
+      "lastName": "",
+      "email": "admin@gmail.com",
+      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "isAdmin": true,
+      "id": "efd8"
+    },
+    {
+      "id": "57e31",
+      "firstName": "Sneha Subash",
+      "lastName": "Rao",
+      "userName": "SSR",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e32",
+      "firstName": "Alexander",
+      "lastName": "Ilkov",
+      "userName": "AI",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e33",
+      "firstName": "Thomas",
+      "lastName": "Müller",
+      "userName": "TM",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e34",
+      "firstName": "Kai Alexander",
+      "lastName": "Eisele",
+      "userName": "KAE",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e35",
+      "firstName": "Sascha",
+      "lastName": "Schröder",
+      "userName": "SaSc",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e36",
+      "firstName": "Kai",
+      "lastName": "Makuchowski",
+      "userName": "KaMa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e37",
+      "firstName": "Gibrail",
+      "lastName": "Islam",
+      "userName": "GiIs",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e38",
+      "firstName": "Xiaoning",
+      "lastName": "Long",
+      "userName": "XiLo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e39",
+      "firstName": "Emil",
+      "lastName": "Czychon",
+      "userName": "EmCz",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e40",
+      "firstName": "Gilbert",
+      "lastName": "Magliocco",
+      "userName": "GiMa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e41",
+      "firstName": "Milica",
+      "lastName": "Todorovic",
+      "userName": "MiTo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e42",
+      "firstName": "Mihail",
+      "lastName": "Danilov",
+      "userName": "MiDa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e43",
+      "firstName": "Felix",
+      "lastName": "Tauber",
+      "userName": "FeTa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e44",
+      "firstName": "Nadine",
+      "lastName": "Chmiel",
+      "userName": "NaCh",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e45",
+      "firstName": "Mustafa",
+      "lastName": "Gecer",
+      "userName": "MuGe",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e46",
+      "firstName": "Patrick",
+      "lastName": "Flügge",
+      "userName": "PaFl",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e47",
+      "firstName": "Tetyana",
+      "lastName": "Soga",
+      "userName": "TeSo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e48",
+      "firstName": "Patrick",
+      "lastName": "Faißler",
+      "userName": "PaFa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e49",
+      "firstName": "Milos",
+      "lastName": "Dongmo",
+      "userName": "GiMa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e50",
+      "firstName": "Iryna",
+      "lastName": "Yankelevic",
+      "userName": "IrYa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e51",
+      "firstName": "Oksana",
+      "lastName": "Mishschenko",
+      "userName": "GiMa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e52",
+      "firstName": "Sebastian",
+      "lastName": "Schimmele",
+      "userName": "SeSc",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e53",
+      "firstName": "Kristina",
+      "lastName": "Dreiner",
+      "userName": "KrDr",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e54",
+      "firstName": "Michael",
+      "lastName": "Rausch",
+      "userName": "MiRa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e55",
+      "firstName": "Ayca",
+      "lastName": "Topuz",
+      "userName": "AyTo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e56",
+      "firstName": "Aanique",
+      "lastName": "OOsterbaan",
+      "userName": "AaOo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e57",
+      "firstName": "Raminder",
+      "lastName": "Singh",
+      "userName": "RaSi",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e58",
+      "firstName": "Maren",
+      "lastName": "Ventzke",
+      "userName": "GiMa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e59",
+      "firstName": "Elina",
+      "lastName": "Gorniker",
+      "userName": "ElGo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e60",
+      "firstName": "Andreas",
+      "lastName": "Eichwald",
+      "userName": "AnEi",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e61",
+      "firstName": "Elena",
+      "lastName": "Okisheva",
+      "userName": "ElOk",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e62",
+      "firstName": "Romeo",
+      "lastName": "Gerstlauer",
+      "userName": "RoGe",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e63",
+      "firstName": "Pradeep",
+      "lastName": "Harikrishnan",
+      "userName": "PrHa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    }    
+  ],
+  "meetings_calender": [],
+  "individual_meetings_calender": []
+}
+

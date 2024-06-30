@@ -10,24 +10,353 @@
       "id": "efd8"
     },
     {
-      "id": "57e2",
-      "firstName": "Sandeep",
-      "lastName": "Kumar",
-      "userName": "sandeep",
-      "email": "sandeep@gmail.com",
-      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
-      "isAdmin": false
+      "firstName": "Naisha",
+      "lastName": "Rai",
+      "userName": "nrai",
+      "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+      "id": "gCbIen9"
     },
     {
-      "id": "57e3",
-      "firstName": "Sahil",
-      "lastName": "Gupta",
-      "userName": "sahil",
-      "email": "sahil@gmail.com",
-      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
-      "isAdmin": false
+      "firstName": "Ruby",
+      "lastName": "Kumari",
+      "userName": "rkumari",
+      "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+      "id": "37vIZZB"
+    },
+    {
+      "firstName": "Arjun",
+      "lastName": "Kapoor",
+      "userName": "akapoor",
+      "email": "akapoor@gmail.com",
+      "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+      "id": "4t1NO1P"
+    },
+    {
+      "firstName": "rahul",
+      "lastName": "gupta",
+      "userName": "rahulg",
+      "email": "rahulg@gmail.com",
+      "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+      "isAdmin": false,
+      "id": "XB3Qf7Y"
     }
   ],
-  "meetings_calender": [],
-  "individual_meetings_calender": []
+  "meetings_calender_details": {
+    "start_date": "2024-07-01",
+    "frequency": 7
+  },
+  "meetings_calender": [
+    {
+      "seq": 1,
+      "meeting_date": "2024-07-01T00:00:00.000Z",
+      "teams": [
+        [
+          {
+            "firstName": "Naisha",
+            "lastName": "Rai",
+            "userName": "nrai",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "gCbIen9"
+          },
+          {
+            "firstName": "Ruby",
+            "lastName": "Kumari",
+            "userName": "rkumari",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "37vIZZB"
+          }
+        ],
+        [
+          {
+            "firstName": "Arjun",
+            "lastName": "Kapoor",
+            "userName": "akapoor",
+            "email": "akapoor@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "4t1NO1P"
+          },
+          {
+            "firstName": "rahul",
+            "lastName": "gupta",
+            "userName": "rahulg",
+            "email": "rahulg@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "isAdmin": false,
+            "id": "XB3Qf7Y"
+          }
+        ]
+      ],
+      "id": 1
+    },
+    {
+      "seq": 2,
+      "meeting_date": "2024-07-08T00:00:00.000Z",
+      "teams": [
+        [
+          {
+            "firstName": "Naisha",
+            "lastName": "Rai",
+            "userName": "nrai",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "gCbIen9"
+          },
+          {
+            "firstName": "Arjun",
+            "lastName": "Kapoor",
+            "userName": "akapoor",
+            "email": "akapoor@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "4t1NO1P"
+          }
+        ],
+        [
+          {
+            "firstName": "Ruby",
+            "lastName": "Kumari",
+            "userName": "rkumari",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "37vIZZB"
+          },
+          {
+            "firstName": "rahul",
+            "lastName": "gupta",
+            "userName": "rahulg",
+            "email": "rahulg@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "isAdmin": false,
+            "id": "XB3Qf7Y"
+          }
+        ]
+      ],
+      "id": 2
+    },
+    {
+      "seq": 3,
+      "meeting_date": "2024-07-15T00:00:00.000Z",
+      "teams": [
+        [
+          {
+            "firstName": "Naisha",
+            "lastName": "Rai",
+            "userName": "nrai",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "gCbIen9"
+          },
+          {
+            "firstName": "rahul",
+            "lastName": "gupta",
+            "userName": "rahulg",
+            "email": "rahulg@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "isAdmin": false,
+            "id": "XB3Qf7Y"
+          }
+        ],
+        [
+          {
+            "firstName": "Ruby",
+            "lastName": "Kumari",
+            "userName": "rkumari",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "37vIZZB"
+          },
+          {
+            "firstName": "Arjun",
+            "lastName": "Kapoor",
+            "userName": "akapoor",
+            "email": "akapoor@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "4t1NO1P"
+          }
+        ]
+      ],
+      "id": 3
+    }
+  ],
+  "individual_meetings_calender": [
+    {
+      "seq": 1,
+      "person": {
+        "firstName": "Naisha",
+        "lastName": "Rai",
+        "userName": "nrai",
+        "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+        "id": "gCbIen9"
+      },
+      "meeting_calender": [
+        {
+          "contact_person": {
+            "firstName": "Ruby",
+            "lastName": "Kumari",
+            "userName": "rkumari",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "37vIZZB"
+          },
+          "meeting_date": "2024-07-01T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "Arjun",
+            "lastName": "Kapoor",
+            "userName": "akapoor",
+            "email": "akapoor@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "4t1NO1P"
+          },
+          "meeting_date": "2024-07-08T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "rahul",
+            "lastName": "gupta",
+            "userName": "rahulg",
+            "email": "rahulg@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "isAdmin": false,
+            "id": "XB3Qf7Y"
+          },
+          "meeting_date": "2024-07-15T00:00:00.000Z"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "seq": 2,
+      "person": {
+        "firstName": "Ruby",
+        "lastName": "Kumari",
+        "userName": "rkumari",
+        "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+        "id": "37vIZZB"
+      },
+      "meeting_calender": [
+        {
+          "contact_person": {
+            "firstName": "Naisha",
+            "lastName": "Rai",
+            "userName": "nrai",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "gCbIen9"
+          },
+          "meeting_date": "2024-07-01T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "Arjun",
+            "lastName": "Kapoor",
+            "userName": "akapoor",
+            "email": "akapoor@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "4t1NO1P"
+          },
+          "meeting_date": "2024-07-15T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "rahul",
+            "lastName": "gupta",
+            "userName": "rahulg",
+            "email": "rahulg@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "isAdmin": false,
+            "id": "XB3Qf7Y"
+          },
+          "meeting_date": "2024-07-08T00:00:00.000Z"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "seq": 3,
+      "person": {
+        "firstName": "Arjun",
+        "lastName": "Kapoor",
+        "userName": "akapoor",
+        "email": "akapoor@gmail.com",
+        "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+        "id": "4t1NO1P"
+      },
+      "meeting_calender": [
+        {
+          "contact_person": {
+            "firstName": "Naisha",
+            "lastName": "Rai",
+            "userName": "nrai",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "gCbIen9"
+          },
+          "meeting_date": "2024-07-08T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "Ruby",
+            "lastName": "Kumari",
+            "userName": "rkumari",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "37vIZZB"
+          },
+          "meeting_date": "2024-07-15T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "rahul",
+            "lastName": "gupta",
+            "userName": "rahulg",
+            "email": "rahulg@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "isAdmin": false,
+            "id": "XB3Qf7Y"
+          },
+          "meeting_date": "2024-07-01T00:00:00.000Z"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "seq": 4,
+      "person": {
+        "firstName": "rahul",
+        "lastName": "gupta",
+        "userName": "rahulg",
+        "email": "rahulg@gmail.com",
+        "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+        "isAdmin": false,
+        "id": "XB3Qf7Y"
+      },
+      "meeting_calender": [
+        {
+          "contact_person": {
+            "firstName": "Naisha",
+            "lastName": "Rai",
+            "userName": "nrai",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "gCbIen9"
+          },
+          "meeting_date": "2024-07-15T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "Ruby",
+            "lastName": "Kumari",
+            "userName": "rkumari",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "37vIZZB"
+          },
+          "meeting_date": "2024-07-08T00:00:00.000Z"
+        },
+        {
+          "contact_person": {
+            "firstName": "Arjun",
+            "lastName": "Kapoor",
+            "userName": "akapoor",
+            "email": "akapoor@gmail.com",
+            "password": "47fdae1aa41a6de198e492fb828ccfa26623bb0c3629b399d107760b5a3b50fe",
+            "id": "4t1NO1P"
+          },
+          "meeting_date": "2024-07-01T00:00:00.000Z"
+        }
+      ],
+      "id": 4
+    }
+  ]
 }

@@ -305,7 +305,70 @@
       "email": "",
       "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
       "isAdmin": false
-    }    
+    },
+    {
+      "id": "57e64",
+      "firstName": "Jörn",
+      "lastName": "Kallenberger",
+      "userName": "JöKa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e65",
+      "firstName": "Dominic",
+      "lastName": "Fussnecker",
+      "userName": "DoFu",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e66",
+      "firstName": "Dennis",
+      "lastName": "Podsendek",
+      "userName": "DePo",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e67",
+      "firstName": "Karim",
+      "lastName": "Ayed",
+      "userName": "PrHa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e68",
+      "firstName": "Felix",
+      "lastName": "Birke",
+      "userName": "FeBi",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e69",
+      "firstName": "Dominic",
+      "lastName": "Evers",
+      "userName": "DoEv",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e70",
+      "firstName": "Igor",
+      "lastName": "Lieberfarb",
+      "userName": "PrHa",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    } 
   ],
   "meetings_calender": [],
   "individual_meetings_calender": []

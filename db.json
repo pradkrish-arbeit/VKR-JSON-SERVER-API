@@ -364,7 +364,16 @@
       "id": "57e70",
       "firstName": "Igor",
       "lastName": "Lieberfarb",
-      "userName": "PrHa",
+      "userName": "IgLi",
+      "email": "",
+      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
+      "isAdmin": false
+    },
+    {
+      "id": "57e71",
+      "firstName": "Jaroslaw",
+      "lastName": "Siedlecki",
+      "userName": "JaSi",
       "email": "",
       "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
       "isAdmin": false

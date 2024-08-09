@@ -46,15 +46,6 @@
       "isAdmin": false
     },
     {
-      "id": "57e35",
-      "firstName": "Sascha",
-      "lastName": "Schröder",
-      "userName": "SaSc",
-      "email": "",
-      "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
-      "isAdmin": false
-    },
-    {
       "id": "57e36",
       "firstName": "Kai",
       "lastName": "Makuchowski",
@@ -146,9 +137,9 @@
     },
     {
       "id": "57e46",
-      "firstName": "Patrick",
-      "lastName": "Flügge",
-      "userName": "PaFl",
+      "firstName": "Steffen",
+      "lastName": "Tauber",
+      "userName": "StTa",
       "email": "",
       "password": "ac1a61a96d2859510591a9600be1dd7ae1b30f1e6bce7b273fab9dd34ffe03c9",
       "isAdmin": false
